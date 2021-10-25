@@ -1,0 +1,34 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#E7E9EB ;
+    font-size: 18px;
+
+}
+
+*{
+    box-sizing: border-box;
+}
+h1{
+    background-color:#e0e4e7 ;
+    padding: 10px;
+}
+.container{
+    width: 680px;
+    padding:20px;
+    background-color: #ffffff;
+    border:1px solid #585858;
+    border-radius: 4px;
+}
+
+input[type=text], input[type=email],input[type=number], input[type=date]{
+    width: 50%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    background: #f1f1f1;
+    border: 1px solid #585858; 
+    border-radius: 4px;
+    box-sizing: border-box; 
+}
+
+
+
